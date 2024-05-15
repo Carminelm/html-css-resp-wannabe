@@ -127,3 +127,16 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+
+ 
+/*Display view*/
+
+ @media screen and (max-width: 1140px) {
+    .container {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+}
+
+
+
